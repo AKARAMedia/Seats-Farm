@@ -1,0 +1,25 @@
+{
+  "name": "seats-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKARAMedia/Seats-Farm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AKARAMedia/Seats-Farm/issues"
+  },
+  "homepage": "https://github.com/AKARAMedia/Seats-Farm#readme",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
